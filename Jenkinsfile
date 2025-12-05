@@ -14,7 +14,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                git 'https://github.com/tu-repo/vite-app.git'
+                git 'https://github.com/luiszlopezs/FRONTWISH.git'
             }
         }
 
